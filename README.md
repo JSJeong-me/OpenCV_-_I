@@ -1,4 +1,4 @@
-# OpenCV_Practitioner_Guide_1
+# OpenCV_Practitioner_Guide_1 - Color Spaces
 
 ### Computer vision skills to work
 
